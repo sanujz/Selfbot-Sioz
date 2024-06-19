@@ -1,0 +1,9 @@
+Spy: https://discord.com/api/webhooks/1252863950148734996/Ff_lGHfeB_EQzakPnGvh7s3RpjrrpCOqDNotb9bPYtHMpH71ZjzOWz3qCZLWbf-A5Zi4
+Tickets: https://discord.com/api/webhooks/1252863963792932946/X0l43AojP-Dq5sdOH8cg6CeuWcwxq7VKxnUdB1N5OF9a7ybHQyQ4rxW22wjmLH_jSz40
+Message Logs: https://discord.com/api/webhooks/1252863973011886193/BcM9OR4XcyPK6gXvLiLwdO4sgrRpAF6ZKgVtExhelU7DrwipECthgdscXyMOU2ntu_Lf
+Relationship Logs: https://discord.com/api/webhooks/1252863981094310008/7v-_qS5S98PmshZ8x476zEMpkKSp1nj2DUdAuMSHhtfONtrO7fRlAjEKeeeTZZo_QTAK
+Guild Logs: https://discord.com/api/webhooks/1252863988979732633/WqBnoAUz_X4Z_mInR06H6X7HXyjpZKqG-uRpGRwXB8_AqDEK46pNL5_EWBMdU0qsZc84
+Role Logs: https://discord.com/api/webhooks/1252863997535977502/mLcnkcSThKDD6F_bGEZckNNBjFfMEIvDuHnvoNLBcvMw9a0QSHPWCdYv_1GMKjUrpogP
+Ping Logs: https://discord.com/api/webhooks/1252864005836374068/OGk0MPuNyUbOxKKhg7Obg_q_qwiq1T-hPRG1iiWJpCXB3DwAwgrc1e9Gil81WEPzdbir
+Ghostping Logs: https://discord.com/api/webhooks/1252864014988611594/M1VhugX56-3WZZlb459-uvazbvwKNYQejPqMa3kcTzDvMUIZ2zaXvlIyB6RGnefwX4Ko
+Word Notifications: https://discord.com/api/webhooks/1252864024043982940/jcFWgirJDWQYgQfPKTGQhyd5E4ZiHfxJF3dwHHnxZo2sMNHnh5jkIiTnO8ztGXKiTsEy
