@@ -7,8 +7,6 @@ from discord.ext import commands
 from datetime import timedelta
 from keep_alive import keep_alive
 
-keep_alive()
-
 with open("config.json", "r") as cjson:
     config = json.load(cjson)
 
@@ -6289,3 +6287,5 @@ except discord.errors.LoginFailure:
         json.dump(config, f)
 
     os.execl(sys.executable, sys.executable, *sys.argv)
+
+keep_alive()
