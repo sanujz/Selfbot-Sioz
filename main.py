@@ -6184,7 +6184,7 @@ async def settings(ctx):
 
     await delete_after_timeout(ctx.message)
 
-
+keep_alive()
 ####################################### Error Handling #######################################
 
 if config["debugMode"] == "False":
@@ -6287,5 +6287,3 @@ except discord.errors.LoginFailure:
         json.dump(config, f)
 
     os.execl(sys.executable, sys.executable, *sys.argv)
-
-keep_alive()
