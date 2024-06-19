@@ -5,6 +5,7 @@ from data.model.imaginepy import AsyncImagine, Style, Ratio
 from discord import SyncWebhook
 from discord.ext import commands
 from datetime import timedelta
+from keep_alive import keep_alive
 
 with open("config.json", "r") as cjson:
     config = json.load(cjson)
